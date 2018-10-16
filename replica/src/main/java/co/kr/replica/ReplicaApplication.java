@@ -11,5 +11,6 @@ public class ReplicaApplication {
 
 	public static void main(String[] args){
 		SpringApplication.run(ReplicaApplication.class, args);
+        System.out.println("TEST");
 	}
 }
