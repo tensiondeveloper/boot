@@ -1,0 +1,10 @@
+<configuration >
+    <typeAliases>
+
+        <package name="co.kr.replica.vo"/>
+    </typeAliases>
+    <mappers>
+
+        <mapper resources="mapper/demo.xml"></mapper>
+    </mappers>
+</configuration>
